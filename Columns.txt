@@ -1,0 +1,21 @@
+Applicant_ID = Applicant ID
+Applicant_Gender = Applicant Gender
+Owned_Car = Car Owned (1=Yes/Have; 0=No/Don't Have)
+Owned_Realty = Property Owned (1=Yes/Have; 0=No/Don't Have)
+Total_Children = Total Children
+Total_Income = Total Income
+Income_Type = Income Type
+Education_Type = Education Type
+Family_Status = Marital Status
+Housing_Type = House Type
+Owned_Mobile_Phone = Mobile Phone Owned (1=Yes/Have; 0=No/Don't Have)
+Owned_Work_Phone = Work Phone Owned (1=Yes/Have; 0=No/Don't Have)
+Owned_Phone = Phone Owned (1=Yes/Have; 0=No/Don't Have)
+Owned_Email = Email Owned (1=Yes/Have; 0=No/Don't Have)
+Job_Title = Applicant Job Title
+Total_Family_Members = Total Family Members
+Applicant_Age = Applicant Age
+Years_of_Working = Years of Working
+Total_Bad_Debt = Total of 'Bad Debt' Status
+Total_Good_Debt = Total of 'Good Debt' Status
+Status = Eligibility Final Status (1=Yes/Allowed; 0=No/Rejected)
